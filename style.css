@@ -1,0 +1,59 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+}
+.status-bar{
+    height: 44px;
+    width: 360px;
+    margin-bottom: 142px;
+ 
+}
+
+.woman-yoga{
+   display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 104px;
+}
+
+.score{
+display: block;
+margin: 0 auto;
+
+}
+
+p{
+    margin-top: 81px;
+    text-align: center;
+    margin-left: 44px;
+    margin-right: 44px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+button{
+    height: 46px;
+    width: 173px;
+    background-color:  #323232;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 35px;
+    
+
+}
