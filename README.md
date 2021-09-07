@@ -6,11 +6,11 @@
 
 <h3>Final result:</h3>
 <br>
-<img src="./assets/Final result 1.jpeg" alt="Application result ">
+<img src="./assets/result 2.jpeg" alt="Application result ">
 <br>
 
 
-<h4>To see the second page of the project <a href: >click here</a></h4>
+<h4>To see the first page of the project <a href="https://github.com/izabela-guimaraes/yoga-interface" target="blank">click here</a></h4>
 
 🚀 Technologies
 This project was developed with the following technologies:
@@ -21,9 +21,10 @@ This project was developed with the following technologies:
 -css
 
 
-## 🤝 Colaboradores
+## 🤝 Contributors
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
+
 
 <table>
   <tr>
