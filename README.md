@@ -9,6 +9,9 @@
 <img src="./assets/result 2.jpeg" alt="Application result ">
 <br>
 
+<h4><a href="https://izabela-guimaraes.github.io/yoga-interface-2/" target="blank">Click here to see the application working</a></h4>
+
+<br>
 
 <h4>To see the first page of the project <a href="https://github.com/izabela-guimaraes/yoga-interface" target="blank">click here</a></h4>
 
